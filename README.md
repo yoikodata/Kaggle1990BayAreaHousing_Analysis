@@ -8,7 +8,7 @@ The second analysis was my own descriptive analysis and attempt at a multivariat
 Here are some fun central tendencies regarding the 1990 Housing Market in the Bay Area:
 average populaton per household = 3.07 
 average rooms per household = 5.42
-median home owner age = 28.64 
+median home age = 28.64 
 median houshold value = $206,855.82 
 median household income = $38,706.71
 average of 499.54 households per location(neighborhood block)
