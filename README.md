@@ -6,10 +6,10 @@ The housing price prediction analysis notebook was a follow along class with Ski
 https://www.youtube.com/watch?v=kUsNb_gOo_s&list=PLOiFVOikO8UX1Ke4jBB25_njmJtAlp_ng&index=5
 Dives into pipelines, machine learning, and regressive models
 
-Here are some fun central tendencies regarding the 1990 Housing Market in the Bay Area:
+Here are some fun central tendencies regarding the 1990 Housing Market:
 average populaton per household = 3.07 
 average rooms per household = 5.42
 median home age = 28.64 
 median houshold value = $206,855.82 
 median household income = $38,706.71
-average of 499.54 households per location(neighborhood block)
+households per neighborhood block = 499.54
